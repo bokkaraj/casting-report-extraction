@@ -1,0 +1,9 @@
+report,status,label_defects,part,casting,disp,type_sev_hits,full_hits,model_defects
+test_001,ok,2,1,1,1,2,2,2
+test_002,ok,0,1,0,1,0,0,0
+test_003,ok,2,1,1,1,2,2,2
+test_004,ok,1,1,1,1,1,1,1
+test_005,ok,1,1,1,1,1,1,1
+test_006,ok,0,1,1,1,0,0,0
+test_007,ok,2,1,1,1,2,2,2
+test_008,ok,2,1,1,1,2,2,2
