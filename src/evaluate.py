@@ -40,7 +40,7 @@ def score_one(name: str, prompt: str) -> dict:
 
 
 def main(prompt: str = PROMPT_V1, out: str = "results/prompt_v1.csv") -> None:
-    names = sorted(p.stem for p in LABELS.glob("report_*.json"))
+    names = sorted(p.stem for p in LABELS.glob("*.json"))
     rows = [score_one(n, prompt) for n in names]
     n = len(rows)
     ok = [r for r in rows if r["status"] == "ok"]
