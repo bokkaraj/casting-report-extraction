@@ -1,0 +1,9 @@
+{
+  "part_id": "CB-3626-T",
+  "casting_type": null,
+  "defects": [
+    {"type": "crack", "location": "mounting lug", "severity": "critical"},
+    {"type": "shrinkage", "location": "web", "severity": "minor"}
+  ],
+  "disposition": "reject"
+}

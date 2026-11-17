@@ -1,0 +1,9 @@
+{
+  "part_id": "CB-2291-A",
+  "casting_type": "gravity die cast",
+  "defects": [
+    {"type": "porosity", "location": "hub", "severity": "major"},
+    {"type": "shrinkage", "location": "rim", "severity": "minor"}
+  ],
+  "disposition": "rework"
+}

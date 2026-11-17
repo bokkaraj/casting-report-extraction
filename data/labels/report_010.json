@@ -1,0 +1,8 @@
+{
+  "part_id": "CB-1057-E",
+  "casting_type": null,
+  "defects": [
+    {"type": "porosity", "location": "gate", "severity": "critical"}
+  ],
+  "disposition": "reject"
+}

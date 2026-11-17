@@ -1,0 +1,8 @@
+{
+  "part_id": "CB-1170-P",
+  "casting_type": "gravity die cast",
+  "defects": [
+    {"type": "inclusion", "location": "hub", "severity": "major"}
+  ],
+  "disposition": "rework"
+}

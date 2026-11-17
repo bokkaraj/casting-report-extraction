@@ -1,0 +1,3 @@
+Ref CB-8163-Y. Valve body, AL-A356, pressure die cast.
+Inclusion at seal face, critical. Porosity at seal face, minor.
+Disposition: reject.

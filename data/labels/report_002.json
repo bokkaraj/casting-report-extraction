@@ -1,0 +1,9 @@
+{
+  "part_id": "CB-3107-C",
+  "casting_type": "sand cast",
+  "defects": [
+    {"type": "crack", "location": "bore", "severity": "critical"},
+    {"type": "porosity", "location": "bore", "severity": "minor"}
+  ],
+  "disposition": "reject"
+}

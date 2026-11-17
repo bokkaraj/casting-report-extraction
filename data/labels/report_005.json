@@ -1,0 +1,9 @@
+{
+  "part_id": "CB-5573-A",
+  "casting_type": "sand cast",
+  "defects": [
+    {"type": "shrinkage", "location": "parting line", "severity": "major"},
+    {"type": "inclusion", "location": "rim", "severity": "minor"}
+  ],
+  "disposition": "reject"
+}

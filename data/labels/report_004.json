@@ -1,0 +1,8 @@
+{
+  "part_id": "CB-4420-D",
+  "casting_type": null,
+  "defects": [
+    {"type": "inclusion", "location": "flange", "severity": "minor"}
+  ],
+  "disposition": "accept"
+}

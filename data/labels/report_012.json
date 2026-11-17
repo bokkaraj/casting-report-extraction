@@ -1,0 +1,9 @@
+{
+  "part_id": "CB-3392-G",
+  "casting_type": "sand cast",
+  "defects": [
+    {"type": "inclusion", "location": "lid", "severity": "minor"},
+    {"type": "inclusion", "location": "lid", "severity": "minor"}
+  ],
+  "disposition": "accept"
+}

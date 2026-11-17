@@ -1,0 +1,3 @@
+CB-8305-C | pump casing | AL-6082
+Crack at fillet, major.
+Disposition: reject.

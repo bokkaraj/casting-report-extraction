@@ -1,0 +1,4 @@
+Insp. ref: CB-2291-A   Alloy: AL-6061 impeller, gravity die cast
+X-ray (Exp. 2 of 3): Gas porosity approx 3 mm dia, hub region, severity major.
+Shrinkage cavity near rim, minor. No cracks observed.
+Result: REWORK. Hub to be re-machined and re-inspected.

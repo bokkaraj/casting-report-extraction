@@ -1,0 +1,4 @@
+Ref CB-1184-B. Light metal casting, pressure die cast.
+X-ray inspection: no internal defects observed.
+Dimensional check within tolerance. Functional test passed.
+Accepted for shipment.

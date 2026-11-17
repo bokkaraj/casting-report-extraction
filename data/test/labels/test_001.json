@@ -1,0 +1,9 @@
+{
+  "part_id": "CB-1408-R",
+  "casting_type": "sand cast",
+  "defects": [
+    {"type": "porosity", "location": "top flange", "severity": "major"},
+    {"type": "inclusion", "location": "bolt boss", "severity": "minor"}
+  ],
+  "disposition": "rework"
+}

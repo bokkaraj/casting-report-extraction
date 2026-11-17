@@ -1,0 +1,9 @@
+{
+  "part_id": "CB-7052-X",
+  "casting_type": "gravity die cast",
+  "defects": [
+    {"type": "crack", "location": "corner", "severity": "major"},
+    {"type": "porosity", "location": "corner", "severity": "minor"}
+  ],
+  "disposition": "reject"
+}

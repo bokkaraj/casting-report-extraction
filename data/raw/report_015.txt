@@ -1,0 +1,3 @@
+Ref CB-6627-K. Pressure die cast housing.
+Porosity in wall, major. Inclusion near hub, minor.
+Result: rework.

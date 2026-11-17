@@ -1,0 +1,8 @@
+{
+  "part_id": "CB-5840-V",
+  "casting_type": "sand cast",
+  "defects": [
+    {"type": "shrinkage", "location": "bore", "severity": "major"}
+  ],
+  "disposition": "rework"
+}

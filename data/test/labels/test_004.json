@@ -1,0 +1,8 @@
+{
+  "part_id": "CB-4733-U",
+  "casting_type": "pressure die cast",
+  "defects": [
+    {"type": "porosity", "location": "sprue", "severity": "minor"}
+  ],
+  "disposition": "accept"
+}

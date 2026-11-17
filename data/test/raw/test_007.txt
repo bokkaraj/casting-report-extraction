@@ -1,0 +1,2 @@
+CB-7052-X, gravity die cast. Crack at corner, major, and porosity at corner, minor.
+Result: REJECT.

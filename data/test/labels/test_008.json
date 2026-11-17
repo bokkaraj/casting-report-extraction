@@ -1,0 +1,9 @@
+{
+  "part_id": "CB-8163-Y",
+  "casting_type": "pressure die cast",
+  "defects": [
+    {"type": "inclusion", "location": "seal face", "severity": "critical"},
+    {"type": "porosity", "location": "seal face", "severity": "minor"}
+  ],
+  "disposition": "reject"
+}

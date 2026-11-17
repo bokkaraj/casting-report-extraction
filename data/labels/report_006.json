@@ -1,0 +1,9 @@
+{
+  "part_id": "CB-6612-B",
+  "casting_type": "gravity die cast",
+  "defects": [
+    {"type": "porosity", "location": "hub", "severity": "minor"},
+    {"type": "shrinkage", "location": "bore", "severity": "major"}
+  ],
+  "disposition": "rework"
+}

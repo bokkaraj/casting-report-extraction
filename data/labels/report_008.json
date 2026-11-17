@@ -1,0 +1,8 @@
+{
+  "part_id": "CB-8305-C",
+  "casting_type": null,
+  "defects": [
+    {"type": "crack", "location": "fillet", "severity": "major"}
+  ],
+  "disposition": "reject"
+}

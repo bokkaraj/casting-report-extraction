@@ -1,0 +1,3 @@
+Ref CB-4475-H. Hairline crack at rim, critical.
+Porosity at hub, minor.
+Disposition: REJECT.

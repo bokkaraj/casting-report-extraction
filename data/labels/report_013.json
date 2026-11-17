@@ -1,0 +1,9 @@
+{
+  "part_id": "CB-4475-H",
+  "casting_type": null,
+  "defects": [
+    {"type": "crack", "location": "rim", "severity": "critical"},
+    {"type": "porosity", "location": "hub", "severity": "minor"}
+  ],
+  "disposition": "reject"
+}

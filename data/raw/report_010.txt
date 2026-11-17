@@ -1,0 +1,3 @@
+Ref CB-1057-E. Porosity cluster near gate, critical.
+Scrap the part.
+REJECT.

@@ -1,0 +1,3 @@
+CB-8859-M | sand cast
+Gas porosity at bore, critical.
+REJECT.

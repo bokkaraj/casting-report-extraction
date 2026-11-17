@@ -1,0 +1,8 @@
+{
+  "part_id": "CB-2284-Q",
+  "casting_type": "pressure die cast",
+  "defects": [
+    {"type": "shrinkage", "location": "parting line", "severity": "critical"}
+  ],
+  "disposition": "reject"
+}

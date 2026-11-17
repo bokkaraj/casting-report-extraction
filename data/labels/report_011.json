@@ -1,0 +1,8 @@
+{
+  "part_id": "CB-2238-F",
+  "casting_type": null,
+  "defects": [
+    {"type": "shrinkage", "location": "top face", "severity": "minor"}
+  ],
+  "disposition": "rework"
+}

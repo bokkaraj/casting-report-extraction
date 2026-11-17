@@ -1,0 +1,4 @@
+CB-3107-C | AL-A356 housing | sand cast
+Crack, hairline, bore wall, critical.
+Porosity cluster, bore, minor.
+DISPOSITION: REJECT

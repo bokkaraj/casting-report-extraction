@@ -1,0 +1,8 @@
+{
+  "part_id": "CB-5510-J",
+  "casting_type": "gravity die cast",
+  "defects": [
+    {"type": "shrinkage", "location": "hub", "severity": "minor"}
+  ],
+  "disposition": "accept"
+}

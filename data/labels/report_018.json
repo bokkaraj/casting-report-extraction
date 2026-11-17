@@ -1,0 +1,8 @@
+{
+  "part_id": "CB-9963-N",
+  "casting_type": null,
+  "defects": [
+    {"type": "shrinkage", "location": "rib", "severity": "minor"}
+  ],
+  "disposition": "rework"
+}

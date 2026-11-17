@@ -1,0 +1,9 @@
+{
+  "part_id": "CB-6627-K",
+  "casting_type": "pressure die cast",
+  "defects": [
+    {"type": "porosity", "location": "wall", "severity": "major"},
+    {"type": "inclusion", "location": "hub", "severity": "minor"}
+  ],
+  "disposition": "rework"
+}

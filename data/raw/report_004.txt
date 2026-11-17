@@ -1,0 +1,3 @@
+Part ref: CB-4420-D (bracket, AL-6082)
+Inclusion (oxide film) observed near flange, minor. Within acceptance criteria.
+Disposition: ACCEPT

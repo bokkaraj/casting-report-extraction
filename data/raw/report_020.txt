@@ -1,0 +1,3 @@
+Ref CB-2284-Q. Pressure die cast housing.
+Shrinkage cavity near parting line, critical.
+Result: reject, scrap.

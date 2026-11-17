@@ -1,0 +1,3 @@
+CB-2238-F: shrinkage cavity on top face, minor.
+Top face to be machined off and re-inspected.
+Result: rework.

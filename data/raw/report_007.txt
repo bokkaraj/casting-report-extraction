@@ -1,0 +1,3 @@
+Ref CB-7029-A. Cast impeller, AL-A356, sand cast.
+X-ray: no defects seen. Dimensions within tolerance.
+ACCEPT.
